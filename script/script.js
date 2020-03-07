@@ -7,7 +7,7 @@ const constraints = {
         ideal: 1920,
         max: 2560,
         facingMode: { 
-            exact: 'environment'
+            exact: 'user'
           }
       },
       height: {
