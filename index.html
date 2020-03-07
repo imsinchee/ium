@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Display Webcam Stream</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-database.js"></script>
+</head>
+ 
+<body>
+    <div align="center">
+        <div id="container" align="center">
+            <video autoplay="true" id="videoElement"></video>
+        </div>
+    </div>
+    <div align="center">
+        <h1>Ready to Harvest: </h1>
+        <label id="harvest"></label>
+        <h1>Days to Harvest: </h1>
+        <label id="days"></label>
+    </div>
+    <script src="script/script.js"></script>
+</body>
+</html>

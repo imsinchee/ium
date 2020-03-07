@@ -1,0 +1,6 @@
+#videoElement {
+    width: 50%;
+    height: 50%;
+    background-color: #666;
+    border: 10px #333 solid;
+}
