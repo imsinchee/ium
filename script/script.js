@@ -19,14 +19,14 @@ const constraints = {
   };
 
   const firebaseConfig = {
-    apiKey: "AIzaSyBSOUBCNLrJULyPy9e-TQsOw0XkfxSfWAA",
-    authDomain: "polar-storm-240813.firebaseapp.com",
-    databaseURL: "https://polar-storm-240813.firebaseio.com",
-    projectId: "polar-storm-240813",
-    storageBucket: "polar-storm-240813.appspot.com",
-    messagingSenderId: "572073336908",
-    appId: "1:572073336908:web:bdb4731e8bfd390bed14e9",
-    measurementId: "G-GP7JV0TLL0"
+    apiKey: "AIzaSyCTSucw5I6S1wFX4y6kaBPEE_zSydq9fl4",
+    authDomain: "bbcs-51698.firebaseapp.com",
+    databaseURL: "https://bbcs-51698.firebaseio.com",
+    projectId: "bbcs-51698",
+    storageBucket: "bbcs-51698.appspot.com",
+    messagingSenderId: "817261029907",
+    appId: "1:817261029907:web:9ac931061a5d7025daade6",
+    measurementId: "G-NQ0KQRYZR5"
   };
 
   var har = -1;
